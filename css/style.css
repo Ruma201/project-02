@@ -1,0 +1,61 @@
+body{
+    font-size: 1rem;
+}
+header{
+    height: 50%;
+    width: 100%;
+}
+.gradient{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,121,255,1) 0%, rgba(16,177,118,1) 82%);
+}
+
+.page-header{
+    margin-top:4rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+.company img{
+    height: 30px;
+    width: 100px;
+}
+
+.feature{
+    color:#fff;
+}
+
+.icon{
+    color:#fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery{
+    background: whitesmoke;
+}
+.col-md-10 p{
+    font-size: 18px;
+}
+.gallery img{
+    height: 450px;
+    width: 350px;
+    border-radius: 20px;
+}
+.code-part{
+    color:#fff;
+}
+
+.footer-last{
+    height: 50px;
+    color: #fff;
+}
+.footer-last h5{
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
